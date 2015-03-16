@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">2048</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="score" translatable="false">得分</string>
+    <string name="best" translatable="false">最高分</string>
+    <string name="enterAnimation" translatable="false">An Animation during enter the game</string>
+    <string name="sign" translatable="false">©2014.10&#160;&#160;&#160;&#160;作者&#160;&#160;&#160;&#160;lz</string>
+
+</resources>
